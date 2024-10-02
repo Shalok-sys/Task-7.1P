@@ -1,0 +1,14 @@
+p{
+    text-align: center;
+    font-size: 50px;
+    background: linear-gradient(to left,
+            violet,
+            indigo,
+            blue,
+            green,
+            yellow,
+            orange,
+            red);
+    background-clip: text;
+    color: transparent;
+}
